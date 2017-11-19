@@ -1,6 +1,7 @@
 # installUbuntu
 ## 1. Install chrome, wps, and sogou
 ```bash
+$ sudo apt --fix-broken install
 $ sudo dpkg -i ~/Downloads/google-chrome-stable_current_amd64.deb
 $ sudo dpkg -i ~/Downloads/wps-office_10.1.0.5707_a21_amd64.deb
 
