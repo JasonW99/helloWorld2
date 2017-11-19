@@ -84,6 +84,7 @@ sudo add-apt-repository ppa:webupd8team/sublime-text-3
 sudo apt-get update
 sudo apt-get install sublime-text-installer
 ```
+get package control from https://packagecontrol.io/installation
 then go to Preferences -> Settings-User and add there: "update_check": false
 
 
