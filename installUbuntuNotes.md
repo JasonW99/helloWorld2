@@ -77,7 +77,14 @@ Install and update Bazel
  $ sudo pip install qrpcio
  $ sudo pip3 install grpcio
 ```
-
+---------------------------------------------------------------------------------------
+## 7. Install sublime-text-3
+```bash
+sudo add-apt-repository ppa:webupd8team/sublime-text-3
+sudo apt-get update
+sudo apt-get install sublime-text-installer
+```
+then go to Preferences -> Settings-User and add there: "update_check": false
 
 
 
